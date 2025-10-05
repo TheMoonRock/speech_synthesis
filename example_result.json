@@ -1,0 +1,16 @@
+[
+    {
+        "words": [
+            {
+                "content": "Мёртвые",
+                "phrasal_stress": false,
+                "pause_len": 238
+            },
+            {
+                "content": "души",
+                "phrasal_stress": true,
+                "pause_len": 650
+            }
+        ]
+    }
+]

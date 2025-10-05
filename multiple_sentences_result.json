@@ -1,0 +1,58 @@
+[
+    {
+        "words": [
+            {
+                "content": "Мёртвые",
+                "phrasal_stress": false,
+                "pause_len": 238
+            },
+            {
+                "content": "души",
+                "phrasal_stress": true,
+                "pause_len": 650
+            }
+        ]
+    },
+    {
+        "words": [
+            {
+                "content": "Николай",
+                "phrasal_stress": false,
+                "pause_len": 160
+            },
+            {
+                "content": "Гоголь",
+                "phrasal_stress": true,
+                "pause_len": 719
+            }
+        ]
+    },
+    {
+        "words": [
+            {
+                "content": "ТОМ",
+                "phrasal_stress": false,
+                "pause_len": 112
+            },
+            {
+                "content": "ПЕРВЫЙ",
+                "phrasal_stress": true,
+                "pause_len": 974
+            }
+        ]
+    },
+    {
+        "words": [
+            {
+                "content": "Глава",
+                "phrasal_stress": false,
+                "pause_len": 166
+            },
+            {
+                "content": "первая",
+                "phrasal_stress": true,
+                "pause_len": 900
+            }
+        ]
+    }
+]
