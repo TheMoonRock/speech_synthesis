@@ -196,8 +196,7 @@ def predict_on_new_data(test_xml_path, output_json_path='submission.json'):
 
 # Использование:
 if __name__ == "__main__":
-    # Укажите путь к тестовому XML файлу
-    test_xml_path = "/home/artyom/itmo/syntes_rechi/fixed/Test_Procody.xml"  # Замените на актуальный путь
+    test_xml_path = "/home/artyom/itmo/syntes_rechi/fixed/Test_Procody.xml"
     
     # Выполняем предсказание
     result = predict_on_new_data(test_xml_path, 'submission.json')
